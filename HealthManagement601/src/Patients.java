@@ -1,4 +1,4 @@
-public class Patients extends User
+/*public class Patients extends User
 {
 	private String gender,status,address,city,state,department,docname, zipcode, phoneno, followupdate, noofvisit,billing;
 	
@@ -153,3 +153,4 @@ public class Patients extends User
 	
 	
 }
+*/

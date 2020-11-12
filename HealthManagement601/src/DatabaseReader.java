@@ -1,4 +1,4 @@
-import java.io.BufferedReader;
+/*import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
@@ -6,7 +6,7 @@ public class DatabaseReader {
 
     public String[][] DB() {
 
-        String csvFile = "src/database.txt";// The name of the file to open.
+        String csvFile = "database.txt";// The name of the file to open.
         String line = "";
         String cvsSplitBy = ",";
         String[][] user = new String[100][20];
@@ -30,4 +30,4 @@ public class DatabaseReader {
 
     }
 
-}
+}*/

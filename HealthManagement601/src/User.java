@@ -1,4 +1,4 @@
-public class User
+/*public class User
 {
 	protected String id,fname,lname,username,password;
 	
@@ -49,4 +49,4 @@ public class User
 	 {
 		 this.password=password;
 	 }
-}
+}*/

@@ -1,4 +1,4 @@
-import java.io.BufferedWriter;
+/*import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 
@@ -44,8 +44,8 @@ public class Writer {
             System.out.println(
                 "Error writing to file '"
                 + "database.txt" + "'");
-            // Or we could just do this:
-            // ex.printStackTrace();
+               
         }
 	}
 }
+*/

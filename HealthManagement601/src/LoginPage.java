@@ -1,6 +1,6 @@
-import java.awt.*;
+/*import java.awt.Color;
+import java.awt.Dimension;
 import java.awt.event.*;
-
 import javax.swing.BoxLayout;
 import javax.swing.JButton;
 import javax.swing.JFormattedTextField;
@@ -89,5 +89,6 @@ public class LoginPage
 	}
 }
 	
+*/
 
 	

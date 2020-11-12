@@ -1,2 +1,0 @@
-1,Pravin,Dhakal,123,Male,Married,414323450,3025Eagandale Place,MN,55121,2,Dental,Ted Smith,12/17/17,345,pd23
-2,Surekshya,Sharma,456,Female,Married,41432233451,3025Eagandale Place,MN,55121,1,Ear,Abraham Willams,12/03/17,2500,ss24

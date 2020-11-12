@@ -1,8 +1,5 @@
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
+/*import javax.swing.JFrame;
 
-import javax.swing.JButton;
-import javax.swing.JFrame;
 public class HealthCare
 { 
 	
@@ -10,7 +7,7 @@ public class HealthCare
 	{ 
 		
 		LoginPage welcome  = new LoginPage(); 
-		/*Signup newaccount=new Signup();
+		Signup newaccount=new Signup();
 		
 		UpdatePI up  = new UpdatePI();
 		Billing bill=new Billing();
@@ -25,11 +22,11 @@ public class HealthCare
 		frame.getContentPane().add(welcome);
 		frame.pack();
 		frame.setVisible(true);
-		*/
 		
 		
 		
-		/*
+		
+		
 		welcome.signup.addActionListener(new ActionListener()
 		{
 			public void actionPerformed(ActionEvent abe) 
@@ -155,8 +152,10 @@ public class HealthCare
 				frame.pack();
 				frame.setVisible(true);
 			}
-		});  */
+		});
+		
 	}
 		
 	}
 
+*/

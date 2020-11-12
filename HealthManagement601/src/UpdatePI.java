@@ -1,4 +1,4 @@
-import java.awt.Color;
+/*import java.awt.Color;
 import java.awt.Component;
 import java.awt.Dimension;
 import java.awt.event.ActionEvent;
@@ -29,7 +29,8 @@ import javax.swing.JTextField;
 		String ln="";
 		DatabaseReader dbr = new DatabaseReader();
 		String[][] user = dbr.DB();
-		public UpdatePI(int id)
+		int id;
+		public UpdatePI()
 		{
 			JFrame frame = new JFrame("UpdatePI"); 
 			frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -89,8 +90,6 @@ import javax.swing.JTextField;
 			{
 				public void actionPerformed(ActionEvent ae) 
 				{
-					
-					
 					if (status1.getText() != "")
 					{
 						user[id][5] = status1.getText();
@@ -105,7 +104,7 @@ import javax.swing.JTextField;
 					}
 					if (address1.getText() != "")
 					{
-						user[id][7] = address1.getText();
+				  		user[id][7] = address1.getText();
 					}				
 					if (city1.getText() != "")
 					{
@@ -126,3 +125,4 @@ import javax.swing.JTextField;
 			
 		    }
 		}
+*/
